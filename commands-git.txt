@@ -2,3 +2,6 @@ Commande pour cloner: git clone url pour mettre le lien Githup
 
 Les trois commandes de git push: [--all | --branches | --mirror | --tags. 
 commande pull: "git pull"
+
+git branch add-create-branch-command
+git checkout add-create-branch-command
